@@ -134,12 +134,3 @@ This architecture is designed to support scalable, real-time, two-way communicat
 - **Pushcut**: Supports multiple devices and users, enabling broad notification delivery.
 
 This design ensures the system can grow to support more users, devices, and real-time features as needed.
-
-## License
-
-MIT
-
-## Acknowledgments
-
-- Google's Generative AI team for providing the Gemini model API
-- Pushcut for notification services
