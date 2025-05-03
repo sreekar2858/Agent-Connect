@@ -1,6 +1,6 @@
-# Crypto Price Agent
+# Agent Connect
 
-A FastAPI-based service that fetches real-time cryptocurrency prices and trends using Google's Gemini AI, with automated notifications via Pushcut.
+Agent Connect is a FastAPI-based platform that enables secure, real-time two-way communication between mobile devices and PCs using AI agents. Send queries from your phone and receive intelligent responses or notifications, seamlessly bridging your devices.
 
 ## Features
 
